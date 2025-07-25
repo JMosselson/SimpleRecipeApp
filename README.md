@@ -88,10 +88,3 @@ The Recipe App provides a robust solution for managing recipes with efficiency a
 By Jordan Mosselson
 
 ------------------------
-
-
-This is the feedback I received from my Lecturer regarding part 2 of the Programming POE:
-I received zero feedback regarding part 2
-
-
-GitHub link: https://github.com/VCSTDN/prog6221-poe-JMuniversity.git
