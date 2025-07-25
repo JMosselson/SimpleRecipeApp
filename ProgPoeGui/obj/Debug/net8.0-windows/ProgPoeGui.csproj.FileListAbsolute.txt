@@ -1,0 +1,24 @@
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\bin\Debug\net8.0-windows\ProgPoeGui.exe
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\bin\Debug\net8.0-windows\ProgPoeGui.deps.json
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\bin\Debug\net8.0-windows\ProgPoeGui.runtimeconfig.json
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\bin\Debug\net8.0-windows\ProgPoeGui.dll
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\bin\Debug\net8.0-windows\ProgPoeGui.pdb
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\InputDialog .baml
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\OutputDialog.baml
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\InputDialog .g.cs
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\OutputDialog.g.cs
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui_MarkupCompile.cache
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui.g.resources
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui.AssemblyInfoInputs.cache
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui.AssemblyInfo.cs
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui.csproj.CoreCompileInputs.cache
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui.sourcelink.json
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui.dll
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\refint\ProgPoeGui.dll
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui.pdb
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ProgPoeGui.genruntimeconfig.cache
+C:\Users\mosse\OneDrive\Documents\Visual Studio Projects\ProgrammingPOE\ProgPoeGui\obj\Debug\net8.0-windows\ref\ProgPoeGui.dll

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590B787B-EF30-4E0F-808B-4AC4A4084861}|ProgrammingPOE\\ProgrammingPOE.csproj|c:\\users\\mosse\\onedrive\\documents\\visual studio projects\\programmingpoe\\programmingpoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590B787B-EF30-4E0F-808B-4AC4A4084861}|ProgrammingPOE\\ProgrammingPOE.csproj|solutionrelative:programmingpoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590B787B-EF30-4E0F-808B-4AC4A4084861}|ProgrammingPOE\\ProgrammingPOE.csproj|c:\\users\\mosse\\onedrive\\documents\\visual studio projects\\programmingpoe\\programmingpoe\\exceptionhandling\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590B787B-EF30-4E0F-808B-4AC4A4084861}|ProgrammingPOE\\ProgrammingPOE.csproj|solutionrelative:programmingpoe\\exceptionhandling\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|c:\\users\\mosse\\onedrive\\documents\\visual studio projects\\programmingpoe\\progpoegui\\outputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|solutionrelative:progpoegui\\outputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|c:\\users\\mosse\\onedrive\\documents\\visual studio projects\\programmingpoe\\progpoegui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|solutionrelative:progpoegui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|c:\\users\\mosse\\onedrive\\documents\\visual studio projects\\programmingpoe\\progpoegui\\util\\recipeconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|solutionrelative:progpoegui\\util\\recipeconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|c:\\users\\mosse\\onedrive\\documents\\visual studio projects\\programmingpoe\\progpoegui\\util\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|solutionrelative:progpoegui\\util\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|c:\\users\\mosse\\onedrive\\documents\\visual studio projects\\programmingpoe\\progpoegui\\model\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|solutionrelative:progpoegui\\model\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|c:\\users\\mosse\\onedrive\\documents\\visual studio projects\\programmingpoe\\progpoegui\\model\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|solutionrelative:progpoegui\\model\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|c:\\users\\mosse\\onedrive\\documents\\visual studio projects\\programmingpoe\\progpoegui\\exceptionhandling\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279ECA54-651C-4053-B16D-9B464682B891}|ProgPoeGui\\ProgPoeGui.csproj|solutionrelative:progpoegui\\exceptionhandling\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgrammingPOE\\Program.cs",
+              "RelativeDocumentMoniker": "ProgrammingPOE\\Program.cs",
+              "ToolTip": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgrammingPOE\\Program.cs",
+              "RelativeToolTip": "ProgrammingPOE\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:48:35.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgrammingPOE\\ExceptionHandling\\InputHandler.cs",
+              "RelativeDocumentMoniker": "ProgrammingPOE\\ExceptionHandling\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgrammingPOE\\ExceptionHandling\\InputHandler.cs",
+              "RelativeToolTip": "ProgrammingPOE\\ExceptionHandling\\InputHandler.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:48:21.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutputDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\OutputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ProgPoeGui\\OutputDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\OutputDialog.xaml.cs",
+              "RelativeToolTip": "ProgPoeGui\\OutputDialog.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:48:06.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProgPoeGui\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProgPoeGui\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:47:57.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeConstants.cs",
+              "DocumentMoniker": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\Util\\RecipeConstants.cs",
+              "RelativeDocumentMoniker": "ProgPoeGui\\Util\\RecipeConstants.cs",
+              "ToolTip": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\Util\\RecipeConstants.cs",
+              "RelativeToolTip": "ProgPoeGui\\Util\\RecipeConstants.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:47:51.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Print.cs",
+              "DocumentMoniker": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\Util\\Print.cs",
+              "RelativeDocumentMoniker": "ProgPoeGui\\Util\\Print.cs",
+              "ToolTip": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\Util\\Print.cs",
+              "RelativeToolTip": "ProgPoeGui\\Util\\Print.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:47:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\Model\\Recipe.cs",
+              "RelativeDocumentMoniker": "ProgPoeGui\\Model\\Recipe.cs",
+              "ToolTip": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\Model\\Recipe.cs",
+              "RelativeToolTip": "ProgPoeGui\\Model\\Recipe.cs",
+              "ViewState": "AgIAAE4CAAAAAAAAAAAwwGkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:47:42.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\Model\\Ingredient.cs",
+              "RelativeDocumentMoniker": "ProgPoeGui\\Model\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\Model\\Ingredient.cs",
+              "RelativeToolTip": "ProgPoeGui\\Model\\Ingredient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:47:39.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\ExceptionHandling\\InputHandler.cs",
+              "RelativeDocumentMoniker": "ProgPoeGui\\ExceptionHandling\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\mosse\\OneDrive\\Documents\\Visual Studio Projects\\ProgrammingPOE\\ProgPoeGui\\ExceptionHandling\\InputHandler.cs",
+              "RelativeToolTip": "ProgPoeGui\\ExceptionHandling\\InputHandler.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:47:26.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
